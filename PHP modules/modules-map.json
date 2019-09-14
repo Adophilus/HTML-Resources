@@ -1,0 +1,12 @@
+[
+	{
+		"name": "Generators",
+		"path": "/Generators",
+		"map": "./Generators/module-map.json"
+	},
+	{
+		"name": "Utilities",
+		"path": "/Utility/",
+		"map": "/Utility/module-map.json"
+	}
+]

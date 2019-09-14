@@ -1,0 +1,41 @@
+*[header-style="1 plain"] {
+	cursor: pointer;
+	font-family: bowlby one;
+	text-align: center;
+	text-shadow: 2px 2px 3px #0d0d0d;
+	font-size: 50px;
+	padding: 20px;
+}
+
+*[header-style="1 blue"] {
+	cursor: pointer;
+	font-family: bowlby one;
+	text-align: center;
+	text-shadow: 2px 2px 3px #0d0d0d;
+	font-size: 50px;
+	padding: 20px;
+	text-decoration: underline;
+	text-decoration-color: blue;
+}
+
+*[header-style="1 red"] {
+	cursor: pointer;
+	font-family: bowlby one;
+	text-align: center;
+	text-shadow: 2px 2px 3px #0d0d0d;
+	font-size: 50px;
+	padding: 20px;
+	text-decoration: underline;
+	text-decoration-color: red;
+}
+
+*[header-style="1 grey"] {
+	cursor: pointer;
+	font-family: bowlby one;
+	text-align: center;
+	text-shadow: 2px 2px 3px #0d0d0d;
+	font-size: 50px;
+	padding: 20px;
+	text-decoration: underline;
+	text-decoration-color: grey;
+}

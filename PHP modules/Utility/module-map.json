@@ -1,0 +1,13 @@
+{
+	"folder": {
+		"folders": ["Utilities"],
+		"create": true
+	},
+	"scripts": [
+		{
+			"name": "utility-1.php",
+			"type": "file",
+			"path": "/Utilities/utility-1.php"
+		}
+	]
+}

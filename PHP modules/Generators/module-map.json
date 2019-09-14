@@ -1,0 +1,17 @@
+{
+	"folder": {
+		"folders": [],
+		"create": false,
+		"name": false
+	},
+	"scripts": [
+		{
+			"name": "PrivateKeyGenerator.php",
+			"path": "./"
+		},
+		{
+			"name": "TokenGenerator.php",
+			"path": "./"
+		}
+	]
+}

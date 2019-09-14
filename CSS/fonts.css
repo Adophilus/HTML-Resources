@@ -1,0 +1,54 @@
+@font-face {
+	font-family: lucida;
+	src: url("../fonts/lucida.ttf");
+}
+
+@font-face {
+	font-family: unicorn;
+	src: url("../fonts/unicorn.ttf");
+}
+
+@font-face {
+	font-family: bowlby one;
+	src: url("../fonts/BowlbyOneSC-Regular.ttf");
+}
+
+@font-face {
+	font-family: monaco;
+	src: url("../fonts/monaco.ttf");
+}
+
+@font-face {
+	font-family: lucy the cat;
+	src: url("../fonts/lucy-the-cat.ttf");
+}
+
+@font-face {
+	font-family: ladybirds;
+	src: url("../fonts/ladybirds.ttf");
+}
+
+@font-face {
+	font-family: beyond wonderland;
+	src: url("../fonts/beyond-wonderland.ttf");
+}
+
+@font-face {
+	font-family: fantasque;
+	src: url("../fonts/fantasque-sans-mono/FantasqueSansMono-Regular.ttf");
+}
+
+@font-face {
+	font-family: quicksand;
+	src: url("../fonts/quicksand/Quicksand-Regular.otf");
+}
+
+@font-face {
+	font-family: raleway;
+	src: url("../fonts/raleway/Raleway-Regular.ttf");
+}
+
+@font-face {
+	font-family: exo-2;
+	src: url("../fonts/exo-2/Exo2-Regular.otf");
+}

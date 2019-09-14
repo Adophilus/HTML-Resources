@@ -1,0 +1,6 @@
+input, select, button {
+	border-radius: 10px;
+	border: 2px solid rgba(0, 0, 0, 0.5);
+	font-size: 20px;
+	padding: 10px;
+}

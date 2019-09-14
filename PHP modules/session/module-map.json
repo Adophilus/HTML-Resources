@@ -1,0 +1,16 @@
+{
+	"folder": {
+		"folders": [],
+		"create": false,
+	},
+	"scripts": [
+		{
+			"name": "Session.php",
+			"path": "./"
+		},
+		{
+			"name": "session-data/",
+			"path": "./"
+		}
+	]
+}

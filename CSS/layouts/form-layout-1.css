@@ -1,0 +1,31 @@
+[myform=fixedContainer] {
+	width: 290px;
+	padding: 20px;
+	position: fixed;
+	border: 3px solid black;
+	border-radius: 10px;
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%, -50%);
+}
+
+[myform=container] {
+	width: 290px;
+	padding: 20px;
+	margin: auto;
+	border: 3px solid black;
+	border-radius: 10px;
+}
+
+[myform=container] [myform=title], [myform=fixedContainer] [myform=title] {
+	font-size: 30px;
+	font-weight: bold;
+	text-align: center;
+	text-shadow: 2px 2px 2px rgba(0, 0, 0, 0.5);
+	font-weight: bolder;
+	cursor: pointer;
+}
+
+[myform=container] [myform=submitButton], [myform=fixedContainer] [myform=submitButton] {
+	padding: 20px;
+}

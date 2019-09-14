@@ -1,0 +1,10 @@
+{
+	"admin_email": [
+		"uchenna19of@gmail.com",
+		"uche@howcoe.com"
+	],
+	"auto_mail": true,
+	"blacklist_file": "./blacklist.json",
+	"bounce_file": "./bounce_file.php",
+	"redirect_file": "./redirect_file.php"
+}

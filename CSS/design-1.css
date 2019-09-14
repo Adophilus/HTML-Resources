@@ -1,0 +1,14 @@
+@import url("fonts.css");
+
+body, input, select, option {
+	font-family: lucida;
+	font-size: 15px;
+}
+
+input select {
+	border-radius: 10px;
+}
+
+.large {
+	font-size: 30px;
+}
